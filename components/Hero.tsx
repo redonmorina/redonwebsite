@@ -19,7 +19,7 @@ export const Hero: React.FC<HeroProps> = ({ data }) => {
            <span className="font-display font-bold uppercase tracking-widest text-[10px] md:text-xs">{data.contact.location}</span>
            <div className="flex items-center gap-2">
              <div className="w-1.5 h-1.5 md:w-2 md:h-2 bg-accent-lime rounded-full animate-pulse"></div>
-             <span className="font-mono text-[10px] opacity-60">Open to work</span>
+             <span className="font-mono text-[10px] opacity-60">Not open to work</span>
            </div>
         </div>
       </div>
