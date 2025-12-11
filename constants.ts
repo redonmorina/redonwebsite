@@ -9,7 +9,7 @@ export const CV_DATA_DE: CVData = {
   name: "Redon Morina",
   roleTitle: "Business Development Manager",
   roleSubtitle: "& Strategist. Driving growth through innovation.",
-  profileImage: PROFILE_IMAGE_URL,
+  profileImage: "image/Don.png",
   contact: {
     email: "redonmorina@outlook.de",
     location: "München, Deutschland"
